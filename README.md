@@ -1,12 +1,6 @@
 
 # CodeFights Solutions: C# - Java
 
-My codefights interview practice solutions. Solutions were added on daily basis after i solved each problem.
-
-Solutions to the codefights.com interview practice questions
-
-The solutions were written while I was solving these problems during practice, therefore while the solutions were accepted in codefights.com on submission, they may not represent the best solution and the source 
-codes may not be optimized
 
 ## Array
 
