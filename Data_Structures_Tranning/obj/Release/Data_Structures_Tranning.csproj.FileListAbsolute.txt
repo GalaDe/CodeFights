@@ -1,0 +1,10 @@
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\Data_Structures_Tranning.exe.config
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\Data_Structures_Tranning.exe
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\Data_Structures_Tranning.pdb
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\FSharp.Core.dll
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\FSharpx.Collections.dll
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\FSharp.Core.xml
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\bin\Release\FSharpx.Collections.xml
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\obj\Release\Data_Structures_Tranning.csprojResolveAssemblyReference.cache
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\obj\Release\Data_Structures_Tranning.exe
+C:\Users\gklikh\Documents\Visual Studio 2015\Projects\Data_Structures_Tranning\Data_Structures_Tranning\obj\Release\Data_Structures_Tranning.pdb
