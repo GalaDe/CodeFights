@@ -1,6 +1,8 @@
 
 # CodeFights Solutions: C# - Java
 
+Here is my [profile](https://codefights.com/profile/gala_d), feel free to codefriend me and challenge me for a fight.
+
 
 <p><a target="_blank" href="https://codefights.com/"><img width="350" src="https://github.com/GalaDe/CodeFights/blob/master/Images/ext.jpg"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a target="_blank" href="http://csharp.net-tutorials.com/"><img width="100" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a>&nbsp&nbsp&nbsp&nbsp<a target="_blank" href="https://www.tutorialspoint.com/java/index.htm"><img width="250" src="https://github.com/GalaDe/CodeFights/blob/master/Images/java-logo.jpg"/></a></p>
 
