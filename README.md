@@ -2,11 +2,7 @@
 # CodeFights Solutions: C# - Java
 
 
-[![alt-text-1]<a target="_blank" href="https://codefights.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/ext.jpg"/></a>]
-
-[![alt-text-2]<a target="_blank" href="http://csharp.net-tutorials.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a>]
-
-![alt-text-3]<a target="_blank" href="https://www.tutorialspoint.com/java/index.htm"><img width="100" src="https://github.com/GalaDe/CodeFights/blob/master/Images/java-logo.jpg"/></a>
+<a target="_blank" href="https://codefights.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/ext.jpg"/></a>]<a target="_blank" href="http://csharp.net-tutorials.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a><a target="_blank" href="https://www.tutorialspoint.com/java/index.htm"><img width="100" src="https://github.com/GalaDe/CodeFights/blob/master/Images/java-logo.jpg"/></a>
 
 
 ## Array
