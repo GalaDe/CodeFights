@@ -1,9 +1,8 @@
 
 # CodeFights Solutions: C# - Java
 
-<a target="_blank" href="https://codefights.com/"><img width="417" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a>
+<a target="_blank" href="https://codefights.com/"><img width="200" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a>
 
-[![alt text](https://github.com/Lintik/CodeFights-Python/blob/master/images/arcade-python-01-meet-python.png)](https://github.com/Lintik/CodeFights-Python/tree/master/Meet%20Python)
 ## Array
 
 * [First Duplicate](https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q)
