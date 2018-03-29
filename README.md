@@ -1,13 +1,13 @@
 
 # CodeFights Solutions: C# - Java
 
-<li>
-<ul><a target="_blank" href="https://codefights.com/"><img width="200" src="https://github.com/GalaDe/CodeFights/blob/master/Images/ext.jpg"/></a></ul>
 
-<ul><a target="_blank" href="http://csharp.net-tutorials.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a></ul>
+![alt-text-1]<a target="_blank" href="https://codefights.com/"><img width="200" src="https://github.com/GalaDe/CodeFights/blob/master/Images/ext.jpg"/></a>
 
-<ul><a target="_blank" href="https://www.tutorialspoint.com/java/index.htm"><img width="200" src="https://github.com/GalaDe/CodeFights/blob/master/Images/java-logo.jpg"/></a></ul>
-</li>
+![alt-text-2]<a target="_blank" href="http://csharp.net-tutorials.com/"><img width="150" src="https://github.com/GalaDe/CodeFights/blob/master/Images/download.png"/></a>
+
+![alt-text-3]<a target="_blank" href="https://www.tutorialspoint.com/java/index.htm"><img width="200" src="https://github.com/GalaDe/CodeFights/blob/master/Images/java-logo.jpg"/></a>
+
 
 ## Array
 
